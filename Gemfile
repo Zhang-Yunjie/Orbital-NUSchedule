@@ -12,7 +12,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.1'
 #gem 'devise-bootstrap-views'
 
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '>= 6'
